@@ -1,4 +1,3 @@
-import { label } from "framer-motion/client";
 import React from "react";
 import {
   FaHtml5,

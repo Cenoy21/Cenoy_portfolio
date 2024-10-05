@@ -1,6 +1,5 @@
 "use client";
-import Link from "next/link";
-import React, { useState } from "react";
+import React from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import cursor from "../assets/icon1.png";
