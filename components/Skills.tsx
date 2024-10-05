@@ -15,7 +15,6 @@ import {
   SiMongodb,
   SiMysql,
   SiPostman,
-  SiInsomnia,
   SiRedux,
 } from "react-icons/si";
 import { IoLogoGithub } from "react-icons/io5";

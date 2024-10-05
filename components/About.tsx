@@ -20,7 +20,7 @@ const About = () => {
             <div className="flex flex-col mt-4">
               <h2 className="text-xl font-bold text-white/80">Education</h2>
               <p className="text-lg text-white/70 mt-2">
-                I completed my Bachelor's in Computer Application (BCA) from
+                I completed my Bachelor&apos;s in Computer Application (BCA) from
                 Nirmala College, Muvattupuzha, Ernakulam, and also completed a
                 comprehensive 5-month training program in MERN Stack
                 Development, receiving certification for successfully mastering
