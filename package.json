@@ -1,12 +1,15 @@
 {
   "name": "my-project",
   "version": "0.1.0",
+  "homepage": "http://Cenoy21.github.io/Cenoy_portfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^11.11.0",
