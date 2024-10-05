@@ -30,8 +30,8 @@ const projects = [
     description:
       "Developed a personal portfolio website from scratch to showcase my skills, projects, and experience. Built with a responsive design, optimized for all devices, and crafted with a clean, modern user interface to highlight my work as a developer and trainer.",
     devStack: "React.js | Next.js | Framer Motion | Tailwind CSS",
-    link: "#",
-    git: "#",
+    link: "https://cenport.netlify.app/",
+    git: "",
     src: portfolio,
   },
 ];
@@ -79,7 +79,7 @@ const Portfolio = () => {
               <Image
                 src={project.src}
                 alt={project.title}
-                className="h-[350px] w-[500px] object-fill border rounded border-gray-700"
+                className="h-[350px] w-[500px] object-fill border rounded border-gray-700 mt-10"
               />
             </div>
           </motion.div>
